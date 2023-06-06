@@ -1,0 +1,16 @@
+Which of the following statements are true for merging feature and master branches?
+
+(Select all acceptable answers.)
+
+a.	GIT ensures that conflicts never happen.
+b.	A push command to the master branch can fail if the master branch was modified in the meantime.
+c.	After merging, git-blame will list only one developer for every modified source code file.
+d.	Before merging, we can sync changes from the master branch to the feature branch.
+e.	Each developer can have their own local branches and commit changes to them. These branches are not visible to other developers until the developer publishes the changes.
+f.	The feature branch cannot be branched further
+
+Answers
+
+b.	A push command to the master branch can fail if the master branch was modified in the meantime.
+d.	Before merging, we can sync changes from the master branch to the feature branch.
+e.	Each developer can have their own local branches and commit changes to them. These branches are not visible to other developers until the developer publishes the changes.

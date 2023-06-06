@@ -1,0 +1,14 @@
+.share-button {
+    position: fixed;
+    left: 20px;
+    top: 50px;
+    width: 48px;
+    height: 48px;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    line-height: 48px;
+    text-decoration: none;
+    z-index: 9999;
+  }
+  
